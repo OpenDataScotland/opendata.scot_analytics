@@ -29,4 +29,8 @@ jobs:
     - name: Run app!
       run: python script.py -d 2022-05-20 -k ${{ secrets.PLAUSIBLE_LIVE_KEY }}
     - name: Check files
-      run: ls -a
+      run: |
+          ls -a
+          cat .\timeseries\output-2022-05-20.json
+            
+    
