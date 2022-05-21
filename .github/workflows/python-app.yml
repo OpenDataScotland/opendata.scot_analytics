@@ -22,5 +22,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        pip install simplejson
+        pip install requests
     - name: Run app!
       run: python script.py -d 2022-05-20 -k ${{ secrets.PLAUSIBLE_LIVE_KEY }}
+    - name: Check files
+      run: ls -a
