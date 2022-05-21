@@ -23,13 +23,11 @@ jobs:
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         pip install simplejson requests
-    - name: Get yesterdays date
-      run: YESTERDAY="$(date  --date="yesterday" --rfc-3339=date)"
     - name: Run app!
-      run: python script.py -d $YESTERDAY -k ${{ secrets.PLAUSIBLE_LIVE_KEY }}
+      run: python script.py -k ${{ secrets.PLAUSIBLE_LIVE_KEY }}
     - name: Check files
       run: |
-          ls -a
+          ls -a -R
           cat ./timeseries/output-2022-05-20.json
             
     
