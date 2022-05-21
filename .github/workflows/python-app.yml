@@ -1,10 +1,7 @@
-name: Python application
+name: Python application  
 
 on:
   workflow_dispatch
-
-permissions:
-  contents: read
 
 jobs:
   build:
