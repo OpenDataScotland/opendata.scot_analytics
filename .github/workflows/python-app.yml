@@ -1,7 +1,10 @@
 name: Python application  
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
+  schedule:
+    # Run every day at 8AM
+    - cron: '0 8 * * *'
 
 jobs:
   build:
