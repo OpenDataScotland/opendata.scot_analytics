@@ -28,6 +28,15 @@ jobs:
     - name: Check files
       run: |
           ls -a -R
-          cat ./timeseries/output-2022-05-20.json
-            
+    - name: Get yesterdays date
+      run: YESTERDAY="$(date  --date="yesterday" --rfc-3339=date)"
+    - name: Git config
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "<>"
+    - name: Git status
+      run: git status
+    # - name: Commit and push
+    #   run: git add -A && git commit -m "Updated $YESTERDAY output" && git push origin main
+
     
