@@ -13,7 +13,7 @@ def get_data(date, key):
 
     response = requests.request("GET", url, headers=headers, data=payload)
 
-    filename = "timeseries\output-" + date + ".json"
+    filename = ".//timeseries/output-" + date + ".json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
     f = open(filename, "a")
