@@ -19,7 +19,7 @@ def get_data(key):
 
     response = requests.request("GET", url, headers=headers, data=payload)
 
-    filename = ".//timeseries/output-" + date + ".json"
+    filename = "timeseries/output-" + date + ".json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
     print ("Writing to " + filename)
