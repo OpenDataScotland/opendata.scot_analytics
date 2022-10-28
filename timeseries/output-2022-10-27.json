@@ -1,0 +1,196 @@
+{
+    "results": [
+        {
+            "bounce_rate": 100,
+            "date": "2022-10-27 00:00:00",
+            "pageviews": 1,
+            "visit_duration": 0,
+            "visitors": 1,
+            "visits": 1
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 01:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 02:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 03:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 04:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 05:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": 50,
+            "date": "2022-10-27 06:00:00",
+            "pageviews": 11,
+            "visit_duration": 53,
+            "visitors": 2,
+            "visits": 2
+        },
+        {
+            "bounce_rate": 50,
+            "date": "2022-10-27 07:00:00",
+            "pageviews": 4,
+            "visit_duration": 17,
+            "visitors": 1,
+            "visits": 2
+        },
+        {
+            "bounce_rate": 50,
+            "date": "2022-10-27 08:00:00",
+            "pageviews": 3,
+            "visit_duration": 2,
+            "visitors": 2,
+            "visits": 2
+        },
+        {
+            "bounce_rate": 0,
+            "date": "2022-10-27 09:00:00",
+            "pageviews": 3,
+            "visit_duration": 96,
+            "visitors": 1,
+            "visits": 1
+        },
+        {
+            "bounce_rate": 40,
+            "date": "2022-10-27 10:00:00",
+            "pageviews": 24,
+            "visit_duration": 51,
+            "visitors": 5,
+            "visits": 5
+        },
+        {
+            "bounce_rate": 0,
+            "date": "2022-10-27 11:00:00",
+            "pageviews": 5,
+            "visit_duration": 32,
+            "visitors": 2,
+            "visits": 2
+        },
+        {
+            "bounce_rate": 0,
+            "date": "2022-10-27 12:00:00",
+            "pageviews": 10,
+            "visit_duration": 100,
+            "visitors": 1,
+            "visits": 1
+        },
+        {
+            "bounce_rate": 60,
+            "date": "2022-10-27 13:00:00",
+            "pageviews": 7,
+            "visit_duration": 13,
+            "visitors": 5,
+            "visits": 5
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 14:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 15:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 16:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 17:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 18:00:00",
+            "pageviews": 26,
+            "visit_duration": null,
+            "visitors": 1,
+            "visits": 0
+        },
+        {
+            "bounce_rate": 0,
+            "date": "2022-10-27 19:00:00",
+            "pageviews": 28,
+            "visit_duration": 1372,
+            "visitors": 2,
+            "visits": 2
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 20:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 21:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 22:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        },
+        {
+            "bounce_rate": null,
+            "date": "2022-10-27 23:00:00",
+            "pageviews": 0,
+            "visit_duration": null,
+            "visitors": 0,
+            "visits": 0
+        }
+    ]
+}
