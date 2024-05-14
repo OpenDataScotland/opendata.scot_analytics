@@ -1,0 +1,3 @@
+{
+    "error": "The account that owns this API key does not have access to Stats API. Please make sure you're using the API key of a subscriber account and that the subscription plan includes Stats API"
+}
